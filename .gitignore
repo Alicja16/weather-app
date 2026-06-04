@@ -1,0 +1,5 @@
+.env
+/weather-app-venv/
+/__pycache__/
+cheatsheets.pdf
+tempCodeRunnerFile.py
